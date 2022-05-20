@@ -1,0 +1,17 @@
+[GENERAL]
+
+ruta_ubicacion = L:\
+extent_proyecto = L:\PE_YanaCoya\ENTRADA\EXTENT_PE_YanaCoya.shp
+nom_proyecto = PE_YanaCoya
+DEM = L:\BDPRIM\STRM90\DTM_PERU_proj1.tif
+NUM_SIST_COORD = 32718
+excel_default = PE_YanaCoya_MATRIZ_CONFIGURACION_TECNICA_v2_20210120.xlsx
+matriz_ahp_te = PE_YanaCoya_MATRIZ_AHP_TECNICA_v1_20201222.xlsx
+matriz_ahp_pr = PE_YanaCoya_MATRIZ_AHP_PREDIAL_v1_20201222.xlsx
+matriz_ahp_am = PE_YanaCoya_MATRIZ_AHP_AMBIENTAL_v1_20201222.xlsx
+version_proyecto = v2_20210120
+
+[CORREDOR]
+
+pto_inicial = L:\PE_YanaCoya\ENTRADA\punto6.shp
+pto_final = L:\PE_YanaCoya\ENTRADA\punto7.shp
